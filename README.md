@@ -110,4 +110,5 @@ Contributions are welcome. Feel free to submit pull requests.
 ## Author
 
 Omkar Muchlambe
+
 Developed as part of a Spring Boot project to demonstrate workload management and task planning capabilities.
